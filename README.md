@@ -1,3 +1,3 @@
 # Directory
 
-#Showcasing simple data access using JavaScript React
+#Showcasing simple data access using StorageApi and JSON. Made in React
